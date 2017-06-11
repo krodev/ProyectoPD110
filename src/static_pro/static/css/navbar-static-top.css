@@ -18,9 +18,9 @@ body {
 }
 
 .navbar-default .navbar-nav>li>a{
-	color:#faffbd;
+	color:#green;
 }
 
 .navbar-default .navbar-nav>li>a:hover{
-	color:#337ab7;
+	color:#red;
 }
