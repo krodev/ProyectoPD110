@@ -8,6 +8,8 @@ from .models import Registrado
 # Create your views here.
 
 def inicio(request):
+
+	# creo este es un tipo de Class-based views
 	titulo = "Bienvenido"
 	
 	if request.user.is_authenticated():

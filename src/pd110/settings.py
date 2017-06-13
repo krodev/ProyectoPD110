@@ -29,10 +29,6 @@ ALLOWED_HOSTS = ['*']
 
 #para enviar mensaje o email
 EMAIL_HOST = 'smtp.gmail.com'
-<<<<<<< HEAD
-
-=======
->>>>>>> mejorar-stilo
 EMAIL_HOST_USER = 'exemplo@gmail.com'
 EMAIL_HOST_PASSWORD = 'vfjbsf234234x'
 EMAIL_PORT = 587
